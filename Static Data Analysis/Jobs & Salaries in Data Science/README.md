@@ -1,4 +1,6 @@
 # Jobs & Salaries in Data Science
+Basic visualization Dashboard built on Grafana.
+
 This data was originally fetched from Kaggle.
 
 [Kaggle Source](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data)
@@ -42,3 +44,33 @@ This data was then dumped after refining into postgresql containarized database.
 
 Data visualization with grafana using all basic grafana plugins with standard column customizations:
 ![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/251444b8-a34a-46df-850c-2dbee401ba64)
+
+
+Further, Breakdown of the data visualization panel wise.
+
+![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/a34fbad8-79bc-4df0-a357-9e6d8803e07a)
+Sample size of Salaries Country wise on Map visualization.
+
+
+![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/39b0338f-1e0d-45bd-8e17-1c5a491e62c7)
+Job Category wise highest Salary Distribution
+
+
+![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/5d83a062-2711-4365-9e24-4a03278d7ba7)
+Types of work setting wise highest Salary Distribution
+
+
+![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/6e7f94fe-b41f-4a93-b74f-eb260d7adfd9)
+Breakdown of total employees at each employee level
+
+
+![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/78059853-92cd-48fd-b513-4ceb34639354)
+Job Title wise Roles and Raw Table data of the dataset.
+
+
+![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/b89a05da-726c-463d-a171-a999d0d033c0)
+Country wise average salaries, featuring countries only having greater than 50 samples in this data set.
+
+
+Further , Refer to the JSON attached above to view detailed export file 
+
