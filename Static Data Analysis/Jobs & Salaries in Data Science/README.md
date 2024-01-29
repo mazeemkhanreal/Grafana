@@ -33,4 +33,10 @@ company_size: The size of the employer company, often categorized into small (S)
 
 This data was then dumped after refining into postgresql containarized database.
 > [!NOTE]  
-> Essential details that users should not overlook, even when browsing quickly.
+> Essential details for users who want to further touchbase on dockerization & Customization of POSTGRESQL IMAGE.
+
+
+![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/93f1d8e4-cd10-4c50-9887-dabb3fa46de9)
+
+## Grafana Visualization 
+
