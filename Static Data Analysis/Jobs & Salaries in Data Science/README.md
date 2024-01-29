@@ -61,6 +61,7 @@ Types of work setting wise highest Salary Distribution
 
 
 ![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/6e7f94fe-b41f-4a93-b74f-eb260d7adfd9)
+
 Breakdown of total employees at each employee level
 
 
