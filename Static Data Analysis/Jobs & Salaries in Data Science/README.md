@@ -1,7 +1,7 @@
 # Jobs & Salaries in Data Science
 This data was originally fetched from Kaggle
 
-[KAGGLE DATA SOURCE]([https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data])
+(https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data)
 
 
 ## Heading 2
