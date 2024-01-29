@@ -1,4 +1,6 @@
-# Grafana
-Showcasing my Grafana expert skills here
+# Jobs & Salaries in Data Science
+This data was originally fetched from Kaggle
+https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data
 
-# This will serve as guide for this overall repository
+
+## Heading 2
