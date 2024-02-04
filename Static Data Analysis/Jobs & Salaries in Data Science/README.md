@@ -42,6 +42,14 @@ This data was then dumped after refining into postgresql containarized database.
 
 ## Grafana Visualization 
 
+Following Grafana Panels were utilized with their detailed editing in creation of this dashboard:
+* [Stat](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/stat/)
+* [Pie Chart](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/pie-chart/)
+* [Guage](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/gauge/)
+* [GeoMap](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/geomap/)
+* [BarChart](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/bar-chart/)
+* [Table](https://grafana.com/docs/grafana/latest/panels-visualizations/visualizations/table/)
+
 Data visualization with grafana using all basic grafana plugins with standard column customizations:
 ![image](https://github.com/mazeemkhanreal/Grafana/assets/75322899/251444b8-a34a-46df-850c-2dbee401ba64)
 
